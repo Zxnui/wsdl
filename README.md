@@ -1,2 +1,2 @@
 # wsdl
-spring boot webserver 接口案例
+spring boot webservice 接口案例
